@@ -408,7 +408,7 @@ function Footer({ visitCount }: { visitCount: number }) {
           Created with ❤️ by <span className="text-pink-300 font-semibold">Karan</span>
         </p>
         <p className="text-purple-200 text-sm mt-1">
-          Dedicated to the love of <span className="text-pink-300 font-semibold">M</span>
+          Dedicated to the liking of <span className="text-pink-300 font-semibold">M</span>
         </p>
          <p className="text-purple-200 text-sm mt-4">
           You have visited this website <span className="text-pink-300 font-semibold">{visitCount}</span> times.
