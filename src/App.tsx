@@ -469,7 +469,7 @@ function App() {
             </h1>
             <p className="text-xl text-purple-100 max-w-2xl mx-auto leading-relaxed">
               A collection of songs that tell our story, capture our moments,
-              and express my love for you.
+              and express my Liking for you.
             </p>
             <button
               onClick={() => setShowPlaylist(true)}
